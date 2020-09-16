@@ -23,7 +23,9 @@ class Solution:
 
 sol= Solution()
 ret= sol.getHint('1123','0111')
-#printret= sol.getHint('11','11')
+[1123, 0111]
+[1,0],[1,1],[2,1],[3,1]
+#printret= sol.getHint('=','11')
 #ret= sol.getHint('1807','7810')
 print(ret)
             
